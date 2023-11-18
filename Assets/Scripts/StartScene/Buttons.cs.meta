@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2a2dacd621136774d9b1a3338990de8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trainingBtn: {fileID: 438259442276399144, guid: f5c4365888349604c87ff98929356a89, type: 3}
+  - leagueBtn: {fileID: 8309498244377285911, guid: a55bfe7d5d20dfe4184311554a3479e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
