@@ -374,10 +374,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a2dacd621136774d9b1a3338990de8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trainingButtonBody: {fileID: 0}
-  leagueButtonBody: {fileID: 8103660575597304153, guid: 4eaee7c3c6c15ba46a4bbe1ff840cae6, type: 3}
-  startingPositionTrain: {x: 1, y: 1}
-  startingPositionLeague: {x: -1, y: -1}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
