@@ -398,6 +398,8 @@
 -analyzer:"E:/Program Files/Unity Hub/2022.3.2f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/PowerMeterOverlay.cs"
 "Assets/Scripts/PowerMetreScript.cs"
+"Assets/Scripts/StartScene/LeagueButUI.cs"
+"Assets/Scripts/StartScene/TrainingButUI.cs"
 -langversion:9.0
 
 /deterministic
