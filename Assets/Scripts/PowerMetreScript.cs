@@ -18,7 +18,7 @@ public class PowerMetreScript : MonoBehaviour
 
 
     // Update is called once per frame
-    void Update()1
+    void Update()
     {
         Debug.Log(fillMeter.fillAmount);
 
